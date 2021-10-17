@@ -1,0 +1,4 @@
+"print"('hello world');
+console . log(str.concat(' ', str2)
+'Hello';
+'world';
